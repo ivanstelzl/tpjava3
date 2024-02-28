@@ -1,6 +1,6 @@
 var datos = [
     {
-       img : "BF9507B3-F2C0-4262-8346-649A5F980789.jpg",
+       img : "focaccia.jpg",
        nombre : "Focaccia",
        descripcion : "La focaccia es muy popular en Italia y generalmente se aliña con aceite de oliva y sal gruesa, aromatizándola con hierbas como el romero."
    },
