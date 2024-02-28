@@ -1,0 +1,76 @@
+header{
+    background-color: black;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+}
+
+nav{
+    width: 98%;
+margin: 1rem;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link:hover{
+background-color: lightgrey;
+color:black;
+
+}
+
+footer{
+    background-color: black;
+}
+
+i, h3{
+    color: white;
+    text-align: center;
+}
+
+.iconos{
+    text-align: center;
+}
+
+#grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem,1fr));
+    grid-template-rows: repeat(3,auto-fit);
+    gap: 1rem;
+    margin: 1rem;
+}
+
+img{
+    height: 14rem;
+    width: 18rem;
+    text-align: center;
+    margin-top: 2rem;
+    border: solid black 0.1rem;
+}
+
+h5{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex2{
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.division{
+    background-color: lightgray;
+    border: solid gray 0.1rem;
+}
